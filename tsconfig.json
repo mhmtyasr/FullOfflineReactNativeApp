@@ -1,0 +1,19 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false
+  },
+  "strict": false,
+  "allowSyntheticDefaultImports": true,
+  "emitDecoratorMetadata": true,
+  "skipLibCheck": true,
+  "noImplicitReturns": false,
+  "experimentalDecorators": true
+}
