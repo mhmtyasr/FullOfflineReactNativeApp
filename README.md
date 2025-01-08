@@ -175,15 +175,13 @@ export default useBaseQuery;
    npm run windows
    ```
 
-## Katkıda Bulunma
+ ## ScreenShots
 
-Katkılarınızı memnuniyetle karşılıyoruz!
+ ![Extension](screenshots/ios.png)
+ ![Extension](screenshots/android.png)
+ ![Extension](screenshots/windows.png)
 
-1. Bu repoyu fork edin.
-2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik`
-3. Değişikliklerinizi commit edin: `git commit -m 'Yeni bir özellik eklendi'`
-4. Dalı push edin: `git push origin yeni-ozellik`
-5. Bir Pull Request oluşturun.
+
 
 ## Lisans
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
