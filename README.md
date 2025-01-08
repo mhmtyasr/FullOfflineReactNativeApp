@@ -1,4 +1,4 @@
-# Full Offline Yaklaşımlı React Native Uygulama
+# Full Offline Yaklaşımlı React Native Uygulama(IOS,ANDROID,WINDOWS SUPPORT)
 
 Bu proje, mobil cihazlar üzerinde full offline mimariyi temel alan, React Native kullanılarak geliştirilmiş bir uygulama örneğidir.
 
